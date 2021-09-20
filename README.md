@@ -4,6 +4,6 @@ practice repository made to save my html pages.
 <html> 
   <head> <title> hi this is a webpage </title> </head>
   <body> 
-    <div> <p> this is a paragraph that is to be dsiplayed on the webpage. </p> </div>
+    <div> <h1> hello guys this is the heading of the page </h1> </div>
   </body>
 </html>
